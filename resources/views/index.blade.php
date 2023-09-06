@@ -2,7 +2,11 @@
 
 @section("content")
 
-
+<style>
+  .cd{
+  
+  }
+</style>
 
     <!--==========================
     Intro Section
@@ -469,6 +473,35 @@
       <!--==========================
       Team Section
     ============================-->
+    {{-- <div class="container mt-5">
+      <div class="row res">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="teamember">
+                <img src="assets/images/DAWOOD.png" class="img-fluid" alt="no img" />
+              </div>
+                    <h4>SYED ZAIN UL ABADIN
+                    </h4>
+                    <span>CO-FOUNDER & CEO</span>
+              </div>
+
+               <div class="col-lg-4 col-md-6 col-sm-12 cd">
+                <img src="assets/images/ZAIN.png" class="img-fluid" alt="no img" />
+                    <h4>SYED ZAIN UL ABADIN
+                    </h4>
+                    <span>CO-FOUNDER & CEO</span>
+              </div>
+
+               <div class="col-lg-4 col-md-6 col-sm-12 cd">
+                <img src="assets/images/ABDUL.png" class="img-fluid" alt="no img" />
+                    <h4>SYED ZAIN UL ABADIN
+                    </h4>
+                    <span>CO-FOUNDER & CEO</span>
+              </div>
+
+        </div>
+      </div>
+    </div> --}}
+
       <section id="team">
         <div class="container">
           <div class="section-header">
@@ -477,7 +510,7 @@
           </div>
 
           <div class="rowteam" class="responsive">
-            <div class="col-lg-3 col-md-6 wow fadeInUp">
+            <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
               <div class="member">
                 <img src="assets/images/DAWOOD1.jpeg" class="img-fluid" alt="" />
                 <div class="member-info">
@@ -494,9 +527,9 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 wow fadeInUp">
+            <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
               <div class="member">
-                <img src="assets/images/ZAIN.jpeg" class="img-fluid" alt="" />
+                <img src="assets/images/ZAIN1.jpeg" class="img-fluid" alt="" />
                 <div class="member-info">
                   <div class="member-info-content">
                     <h4>SYED ZAIN UL ABADIN
@@ -512,7 +545,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 wow fadeInUp">
+            <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
               <div class="member">
                 <img src="assets/images/ABDUL2.jpeg" class="img-fluid" alt="" />
                 <div class="member-info">
@@ -536,7 +569,7 @@
       <!--==========================
       Clients Section
     ============================-->
-      <section id="clients" class="section-bg">
+      <section id="clients" class=" mt-5">
         <div class="container">
           <div class="section-header">
             <h3>Our Clients</h3>

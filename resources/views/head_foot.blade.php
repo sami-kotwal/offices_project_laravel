@@ -8,8 +8,8 @@
     <meta content="" name="description" />
 
     <!-- Favicons -->
-    <link href="images/phitechSolution-logo.png" rel="icon" />
-    <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href="/assets/images/phitechSolution-logo.png" rel="icon" />
+    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
     <link
@@ -18,14 +18,14 @@
     />
 
     <!-- Bootstrap CSS File -->
-    <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Libraries CSS Files -->
-    <link href="assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="assets/lib/animate/animate.min.css" rel="stylesheet" />
-    <link href="assets/lib/ionicons/css/ionicons.min.css" rel="stylesheet" />
-    <link href="assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
-    <link href="assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet" />
+    <link href="/assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/assets/lib/animate/animate.min.css" rel="stylesheet" />
+    <link href="/assets/lib/ionicons/css/ionicons.min.css" rel="stylesheet" />
+    <link href="/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
@@ -41,7 +41,7 @@
       referrerpolicy="no-referrer"
     />
     <!-- Main Stylesheet File -->
-    <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="/assets/css/style.css" rel="stylesheet" />
 
     <!-- =======================================================
     Theme Name: NewBiz
@@ -64,7 +64,7 @@
           <a href="index.html" class="scrollto"
             >
             <img
-              src="assets/images/phitechSolution-logo.png"
+              src="assets/images/newlogo.png"
               alt=""
               class="img-fluid"
           /></a>
