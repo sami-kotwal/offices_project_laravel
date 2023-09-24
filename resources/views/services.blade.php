@@ -1,3 +1,6 @@
+
+
+
 @extends("head_foot")
 
 @section("content")
@@ -26,7 +29,7 @@
                   materials, and website graphics, bringing your ideas to life
                   with creativity and innovation.
                 </p>
-                <a href="graphic-ser.html" class="readmore ">Show more </a>
+                <a href="/Graphic Designing" class="readmore ">Show more </a>
               </div>
             </div>
           </div>
@@ -41,7 +44,7 @@
                   processes with custom ERP solutions, boosting productivity
                   and fostering collaboration.
                 </p>
-                <a href="erp-ser.html" class="readmore">Show more </a>
+                <a href="/ERP Services" class="readmore">Show more </a>
               </div>
             </div>
           </div>
@@ -56,7 +59,7 @@
                   sites that reflect your brand, embrace responsive design,
                   and deliver excellent user experiences.
                 </p>
-                <a href="web-ser.html" class="readmore">Show more </a>
+                <a href="/web Development" class="readmore">Show more </a>
               </div>
             </div>
           </div>
@@ -70,7 +73,7 @@
                   interactive websites using diverse programming languages and
                   frameworks, driving business growth with tailored solutions
                 </p>
-                <a href="web-ser.html" class="readmore">Show more </a>
+                <a href="/web Development" class="readmore">Show more </a>
               </div>
             </div>
           </div>
@@ -82,7 +85,7 @@
                 <p class="card-text mb-4">
                   In a mobile-centric landscape, we offer app development, delivering seamless experiences, driving engagement, and ensuring high-quality performance.
                 </p>
-                <a href="mobile-ser.html" class="readmore">Show more </a>
+                <a href="/Moblie App" class="readmore">Show more </a>
               </div>
             </div>
           </div>
@@ -94,7 +97,7 @@
                 <p class="card-text mb-4">
                   Expertly and meticulously crafted by our adept team, we design robust, user-friendly desktop apps to streamline tasks, enhance productivity, and ensure secure business operations.
                 </p>
-                <a href="desktop-ser.html" class="readmore">Show more </a>
+                <a href="/Desktop Development" class="readmore">Show more </a>
               </div>
             </div>
           </div>

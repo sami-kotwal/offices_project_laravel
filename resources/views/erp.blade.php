@@ -299,61 +299,6 @@
     </div>  
 
 
- <!--==========================
-    Footer
-  ============================-->
-  <footer id="footer" class="mt-5">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6 footer-info">
-            <h3>Phi Tech</h3>
-            <p>At Phi Tech Solutions, we specialize in providing comprehensive IT services to meet the evolving needs of businesses in today's digital landscape.</p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-newsletter">
-            <h4>Useful Links</h4>
-            <ul class="p-0">
-              <li ><a style="color: white; " href="index.html">Home</a></li>
-              <li ><a style="color: white; " href="about.html">About Us</a></li>
-              <li ><a style="color: white; " href="services.html">Service</a></li>
-              <li ><a style="color: white; " href="portfolio.html">Project</a></li>
-              <li ><a style="color: white; " href="contactus.html">Contact Us</a></li>          
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h4 >Contact Us</h4>
-            <p>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
-            <div class="social-links">
-             <a href="#" class="twitter"><i class="fa-brands fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="instagram"><i class="fa-brands fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a>
-              <a href="#" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
-            </div>
-
-          </div>
-
-          <div class="col-lg-3 col-md " >
-            <h4 >Our Service</h4>
-            <ul class="p-0">
-              <li><a style="color: white;" href="web-ser.html">Web Development</a></li>
-              <li><a style="color: white;" href="desktop-ser.html">Desktop Development</a></li>
-              <li><a style="color: white;" href="moblie-ser.html">Moblie App Development</a></li>
-              <li><a style="color: white;" href="graphic-ser.html">Graphic Designing</a></li>
-              <li><a style="color: white;" href="erp-ser.html">ERP Services</a></li>
-            </ul>
-            
-          </div>
-
-        </div>
-      </div>
-    </div>
 
  
 @endsection

@@ -111,7 +111,7 @@
           <div class="col-lg-2 col-md-6 footer-newsletter">
             <h4>Useful Links</h4>
             <ul class="p-0">
-              <li ><a style="color: white; " href="/index">Home</a></li>
+              <li ><a style="color: white; " href="/">Home</a></li>
               <li ><a style="color: white; " href="/about">About Us</a></li>
               <li ><a style="color: white; " href="/services">Service</a></li>
               <li ><a style="color: white; " href="/portfolio">Project</a></li>
@@ -122,15 +122,15 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4 >Contact Us</h4>
             <p>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              <strong>Phone:</strong>+92 331 2287085<br>
+              <strong>Email:</strong>phitechs@phitechsol.com<br>
             </p>
             <div class="social-links">
-             <a href="#" class="twitter"><i class="fa-brands fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="instagram"><i class="fa-brands fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a>
-              <a href="#" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
+             {{-- <a href="#" class="twitter"><i class="fa-brands fa-twitter"></i></a> --}}
+              <a href="https://www.facebook.com/phitechsol?mibextid=ZbWKwL" target="_blank" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+              <a href="https://instagram.com/phitechsol?igshid=NTc4MTIwNjQ2YQ==" target="_blank" class="instagram"><i class="fa-brands fa-instagram"></i></a>
+              {{-- <a href="#" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a> --}}
+              <a href="https://www.linkedin.com/company/phi-tech_solutions/" target="_blank" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
             </div>
 
           </div>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Sep 05, 2023 at 05:37 PM
+-- Generation Time: Sep 19, 2023 at 09:41 PM
 -- Server version: 8.0.31
 -- PHP Version: 8.1.13
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `aptechproject`
+-- Database: `phi_tech_db`
 --
 
 -- --------------------------------------------------------
@@ -58,23 +58,14 @@ CREATE TABLE IF NOT EXISTS `mcontacts` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `mcontacts`
 --
 
 INSERT INTO `mcontacts` (`id`, `name`, `email`, `number`, `country`, `project`, `message`, `created_at`, `updated_at`) VALUES
-(1, 'samiullah', 'samiullahkotwal36@gmail.com', '03021954421', 'pakistan', 'Web development', 'good', '2023-09-05 22:43:58', '2023-09-05 22:43:58'),
-(2, 'samiullah', 'samiullahkotwal36@gmail.com', '03021954421', 'pakistan', 'Web development', 'good', '2023-09-05 23:16:04', '2023-09-05 23:16:04'),
-(3, 'samiullah', 'sami2109d01@aptechgdn.net', '03021954421', 'pakistan', 'Graphic Designing', 'gghggh', '2023-09-05 23:17:31', '2023-09-05 23:17:31'),
-(4, 'samiullah', 'sami2109d01@aptechgdn.net', '03021954421', 'pakistan', 'Graphic Designing', 'gghggh', '2023-09-05 23:19:52', '2023-09-05 23:19:52'),
-(5, 'mustafa', 'mustafa2207b@aptechgdn.net', '03021954421', 'pakistan', 'Graphic Designing', 'text', '2023-09-05 23:56:04', '2023-09-05 23:56:04'),
-(6, 'samiullah', 'samiullahkotwal36@gmail.com', '03021954421', 'pakistan', 'SAP Design', 'text', '2023-09-05 23:58:53', '2023-09-05 23:58:53'),
-(7, 'sawiad', 'admin@gmail.com', '03021954421', 'pakistan', 'ERP Design', 'dfm,;,;\',,;\',;lgyufuigifvjh nm tydyubujkbyu yujb jhvyugjkbjhvyufvkjbj,kbjhkvjv jkvjhv', '2023-09-06 00:24:36', '2023-09-06 00:24:36'),
-(8, 'sawiad', 'admin@gmail.com', '03021954421', 'pakistan', 'ERP Design', 'dfm,;,;\',,;\',;lgyufuigifvjh nm tydyubujkbyu yujb jhvyugjkbjhvyufvkjbj,kbjhkvjv jkvjhv', '2023-09-06 00:26:01', '2023-09-06 00:26:01'),
-(9, 'Admin', 'admin@gmail.com', '03021954421', 'pakistan', 'SAP Design', 'xgfcghcjh bvjhvguig  mbjgyug iguffyu jhvfvvfvghiosdoiy jh', '2023-09-06 00:29:00', '2023-09-06 00:29:00'),
-(10, 'Mustafa', 'mustafa2207b@aptechgdn.net', '03021954421', 'pakistan', 'Web development', 'huhguigjjffyjf', '2023-09-06 00:30:28', '2023-09-06 00:30:28');
+(1, 'samiullah', 'samiullahkotwal36@gmail.com', '03021954421', 'pakistan', 'Web development', 'text', '2023-09-20 03:56:20', '2023-09-20 03:56:20');
 
 -- --------------------------------------------------------
 
@@ -88,20 +79,20 @@ CREATE TABLE IF NOT EXISTS `migrations` (
   `migration` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
   `batch` int NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `migrations`
 --
 
 INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
-(8, '2014_10_12_000000_create_users_table', 1),
-(9, '2014_10_12_100000_create_password_reset_tokens_table', 1),
-(10, '2014_10_12_200000_add_two_factor_columns_to_users_table', 1),
-(11, '2019_08_19_000000_create_failed_jobs_table', 1),
-(12, '2019_12_14_000001_create_personal_access_tokens_table', 1),
-(13, '2023_08_28_065028_create_sessions_table', 1),
-(14, '2023_09_03_175939_create_mcontacts_table', 1);
+(1, '2014_10_12_000000_create_users_table', 1),
+(2, '2014_10_12_100000_create_password_reset_tokens_table', 1),
+(3, '2014_10_12_200000_add_two_factor_columns_to_users_table', 1),
+(4, '2019_08_19_000000_create_failed_jobs_table', 1),
+(5, '2019_12_14_000001_create_personal_access_tokens_table', 1),
+(6, '2023_08_28_065028_create_sessions_table', 1),
+(7, '2023_09_03_175939_create_mcontacts_table', 1);
 
 -- --------------------------------------------------------
 
@@ -164,8 +155,7 @@ CREATE TABLE IF NOT EXISTS `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('UGPOpFIRiGbe5EtFWDri5rIk4V9shmc9EE7U3col', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiM002YzFiT3MyejZyeWt6ZzVMamhpajBiRHlNRHdxSzJNMFlHQ0p0TSI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMCI7fX0=', 1693865058),
-('OB5v4mNxjH7qHHJYiph7N3OOyTI4UgtAHTRpXahv', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiMjNDNEV3cHNmNFZYVmpRZDRIZE5xbUVTUkhSWDhab3VzM1ZIZVoyaiI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mjk6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9jb250YWN0Ijt9fQ==', 1693935186);
+('66BtrPISRCbz0jUCWYr6WOKebPcUnAf1W2Rs7l4G', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiZ3R2Q3hiRVlMV1BXTUluYWFPcnExc3BMSVE5SUtqeTgzdEFJNXllRiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mjk6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9jb250YWN0Ijt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==', 1695158850);
 
 -- --------------------------------------------------------
 
@@ -191,15 +181,7 @@ CREATE TABLE IF NOT EXISTS `users` (
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `users_email_unique` (`email`)
-) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `two_factor_secret`, `two_factor_recovery_codes`, `two_factor_confirmed_at`, `remember_token`, `current_team_id`, `profile_photo_path`, `is_admin`, `created_at`, `updated_at`) VALUES
-(2, 'umer', 'shonaykotwal0@gmail.com', NULL, '$2y$10$D.U4fk/BsmJzCBQRrx2xdeArVoAUmq5XOvK58aOfqHBxkywJoox6G', NULL, NULL, NULL, NULL, NULL, NULL, 0, '2023-09-05 04:00:15', '2023-09-05 04:00:15'),
-(3, 'samiullah', 'sami2109d01@aptechgdn.net', '2023-09-05 04:01:49', '$2y$10$kijU.wINeCKty9w4fkKtouDkBZhpbDgR4PedNfj/8RnzPlBE959Xe', NULL, NULL, NULL, NULL, NULL, NULL, 1, '2023-09-05 04:01:30', '2023-09-05 04:01:49');
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
