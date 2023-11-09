@@ -129,7 +129,7 @@
              {{-- <a href="#" class="twitter"><i class="fa-brands fa-twitter"></i></a> --}}
               <a href="https://www.facebook.com/phitechsol?mibextid=ZbWKwL" target="_blank" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
               <a href="https://instagram.com/phitechsol?igshid=NTc4MTIwNjQ2YQ==" target="_blank" class="instagram"><i class="fa-brands fa-instagram"></i></a>
-              {{-- <a href="#" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a> --}}
+              <a href="https://phitechs@phitechsol.com" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a>
               <a href="https://www.linkedin.com/company/phi-tech_solutions/" target="_blank" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
             </div>
 

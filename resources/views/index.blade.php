@@ -165,12 +165,12 @@
                         <div class="portfolio-wrap">
                             <img src="assets/images/Phi Tech Solutions Profle[1]-33.png" class="img-fluid" alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="graphic-ser.html">Graphic Designing</a></h4>
+                                <h4><a href="/Graphic Designing">Graphic Designing</a></h4>
                                 <p>Logo Designing</p>
                                 <div>
                                     <a href="images/Phi Tech Solutions Profle[1]-33.png" data-lightbox="portfolio"
                                         class="link-preview"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="graphic-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/Graphic Designing" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -181,12 +181,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-26.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="mobile-ser.html">Moblie App</a></h4>
+                                <h4><a href="/Moblie App">Moblie App</a></h4>
                                 <p>Moblie App</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-26.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-26.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="mobile-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/Moblie App" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -198,12 +198,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-36.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="graphic-ser.html">Graphic Designing</a></h4>
+                                <h4><a href="/Graphic Designing">Graphic Designing</a></h4>
                                 <p>Cartoon Drawings</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-36.png" class="link-preview"
+                                    <a href="asstes/images/Phi Tech Solutions Profle[1]-36.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="graphic-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/Graphic Designing" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -215,12 +215,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-22.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="web-ser.html">Website</a></h4>
+                                <h4><a href="/web Development'">Website</a></h4>
                                 <p>Website</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-22.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-22.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="web-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/web Development'" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -232,12 +232,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-27.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="mobile-ser.html">Website</a></h4>
+                                <h4><a href="/Moblie App">Website</a></h4>
                                 <p>Website</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-27.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-27.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="mobile-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/Moblie App" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -249,12 +249,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-35.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="graphic-ser.html">Graphic Designing</a></h4>
+                                <h4><a href="/Graphic Designing">Graphic Designing</a></h4>
                                 <p>Poster And Cover Designs</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-35.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-35.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="graphic-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/Graphic Designing" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -266,12 +266,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-25.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="web-ser.html">Website </a></h4>
+                                <h4><a href="/web Development'">Website </a></h4>
                                 <p>Websites</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-25.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-25.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="web-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/web Development'" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -283,12 +283,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-24.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="web-ser.html">Website</a></h4>
+                                <h4><a href="/web Development'">Website</a></h4>
                                 <p>Websites</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-24.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-24.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="web-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/web Development'" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -300,12 +300,12 @@
                             <img src="assets/images/Phi Tech Solutions Profle[1]-28.png" class="img-fluid"
                                 alt="" />
                             <div class="portfolio-info">
-                                <h4><a href="mobile-ser.html">Moblie App</a></h4>
+                                <h4><a href="/Moblie App">Moblie App</a></h4>
                                 <p>Moblie App</p>
                                 <div>
-                                    <a href="images/Phi Tech Solutions Profle[1]-28.png" class="link-preview"
+                                    <a href="assets/images/Phi Tech Solutions Profle[1]-28.png" class="link-preview"
                                         data-lightbox="portfolio"><i class="fa-solid fa-eye"></i></a>
-                                    <a href="mobile-ser.html" class="link-details" title="More Details"><i
+                                    <a href="/Moblie App" class="link-details" title="More Details"><i
                                             class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
@@ -406,8 +406,8 @@
                                     <h4>DAWOOD FAREED</h4>
                                     <span>CO-FOUNDER </span>
                                     <div class="social">
-                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                                        <a href="https://instagram.com/phitechsol?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="https://www.facebook.com/phitechsol?mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-facebook"></i></a>
                                         <a href="https://www.linkedin.com/in/dawood-fareed-60a595215/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
